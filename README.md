@@ -1,2 +1,2 @@
 # EmotetSamples
-malware samples of the famous Emotet
+malware samples from the famous Emotet group
